@@ -12,3 +12,5 @@
 
 - [Spamham Detection project](https://github.com/unstablelctron/Spamham_Detection_Project):Spam messages are a common problem in email and SMS communication, leading to wasted time, security risks, and poor user experience.
 This project focuses on building a machine learning-based text classification system to automatically detect spam messages and distinguish them from legitimate (ham) messages using Natural Language Processing (NLP).
+
+- [Retail_sales_SQL_Analysis](https://github.com/unstablelctron/Retail_sale_sql_P1):Designed and analyzed a retail sales database using SQL to clean data, perform EDA, and generate business insights leveraging aggregations, window functions, and CTEs.
