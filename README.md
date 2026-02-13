@@ -14,3 +14,6 @@
 This project focuses on building a machine learning-based text classification system to automatically detect spam messages and distinguish them from legitimate (ham) messages using Natural Language Processing (NLP).
 
 - [Retail_sales_SQL_Analysis](https://github.com/unstablelctron/Retail_sale_sql_P1):Designed and analyzed a retail sales database using SQL to clean data, perform EDA, and generate business insights leveraging aggregations, window functions, and CTEs.
+
+ End-to-End Project
+- - [Vendor_sales_summary_Project](https://github.com/unstablelctron/Vendor_sales_Analysis): This project focuses on analyzing vendor-level sales performance using an end-to-end data analytics approach. The objective is to understand purchasing behavior, inventory movement, pricing strategies, and profitability trends across vendors.
