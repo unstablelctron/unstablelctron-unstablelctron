@@ -15,9 +15,13 @@ This project focuses on building a machine learning-based text classification sy
 
 - [Online Retail Sales Dashboard](https://github.com/unstablelctron/FUTURE_DS_01):This project analyzes transactional sales and customer data to uncover revenue drivers, customer concentration risks, geographic performance patterns, and seasonal demand trends.
 The goal is to move beyond surface-level revenue numbers and translate data into actionable business insights that support strategic decision-making.
-SQL-Projects
+
+## SQL-Projects
+
 - [Retail_sales_SQL_Analysis](https://github.com/unstablelctron/Retail_sale_sql_P1):Designed and analyzed a retail sales database using SQL to clean data, perform EDA, and generate business insights leveraging aggregations, window functions, and CTEs.
 - [Library Management Database Analysis](https://github.com/unstablelctron/Library_SQL_Analysis_Project):This project demonstrates the design and implementation of a Library Management System using SQL. It covers database creation, table relationships, CRUD operations, CTAS (Create Table As Select), advanced SQL queries, and stored procedures.
 The project is designed to showcase real-world database management and analytical querying skills.
- End-to-End Project
+
+## End-to-End Project
+
 -  [Vendor_sales_summary_Project](https://github.com/unstablelctron/Vendor_sales_Analysis): This project focuses on analyzing vendor-level sales performance using an end-to-end data analytics approach. The objective is to understand purchasing behavior, inventory movement, pricing strategies, and profitability trends across vendors.
